@@ -1,4 +1,4 @@
-# mod_currency_cbrf
+# mod_jsp_desc_cat
 Модуль описания категории для JoomShopping.<br />
 Выводит описание текущей категории. Проверялся на JoomShopping 4.16<br />
 <h4>Демо</h4>
