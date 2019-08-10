@@ -5,12 +5,12 @@
     client="site">
     <name>Description JoomShopping Category</name>
     <author>Igor Rybalko</author>
-    <creationDate>August 2017</creationDate>
+    <creationDate>August 2019</creationDate>
     <license>GNU General Public License</license>
     <authorEmail>igorrybalko2009@gmail.com</authorEmail>
-    <authorUrl>wolfweb.com.ua</authorUrl>
-    <version>1.0.0</version>
-    <description>Description Jshopping Category Developed by http://wolfweb.com.ua</description>
+    <authorUrl>greencomet.net</authorUrl>
+    <version>1.0.1</version>
+    <description>Description Jshopping Category Developed by https://greencomet.net</description>
     <files>
         <filename module="mod_jsp_desc_cat">mod_djsc.php</filename>
         <filename>mod_jsp_desc_cat.xml</filename>
@@ -34,6 +34,8 @@
             </fieldset>
         </fields>
     </config>
-    
+    <updateservers>
+        <server type="extension" priority="1" name="Description JoomShopping Category">https://raw.githubusercontent.com/igorrybalko/mod_jsp_desc_cat/master/update.xml</server>
+    </updateservers>
     
 </extension>
