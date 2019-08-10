@@ -9,11 +9,12 @@
     <license>GNU General Public License</license>
     <authorEmail>igorrybalko2009@gmail.com</authorEmail>
     <authorUrl>greencomet.net</authorUrl>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <description>Description Jshopping Category Developed by https://greencomet.net</description>
     <files>
         <filename module="mod_jsp_desc_cat">mod_jsp_desc_cat.php</filename>
         <filename>mod_jsp_desc_cat.xml</filename>
+        <filename>helper.php</filename>
         <filename>index.html</filename>
         <folder>tmpl</folder>
     </files>
